@@ -1,3 +1,26 @@
+🔗 Project Links
+
+Live Application:
+https://deepfakeimage-detector.vercel.app
+
+YouTube Demo Video:
+https://youtu.be/kFC819y2Irs
+
+Notion Doc : 
+https://stirring-burrito-51e.notion.site/hackxios-hackthon-2d98c27f6ef2806a95f4c2fef85ba37c
+
+Medium Blog Post:
+https://medium.com/@rohitlodhi2154/building-a-responsible-deepfake-detection-app-at-hackxios-2k25-ac896d6f035c
+
+X (Twitter) Post:
+https://x.com/RAHULMA90690462/status/2006040632033235158?s=20
+
+
+
+
+
+
+
 
 # 🕵️‍♂️ Deepfake Image Detector
 
