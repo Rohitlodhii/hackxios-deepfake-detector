@@ -6,6 +6,8 @@ https://deepfakeimage-detector.vercel.app
 YouTube Demo Video:
 https://youtu.be/kFC819y2Irs
 
+( kiro IDE video added on yt video itself ) 
+
 Notion Doc : 
 https://stirring-burrito-51e.notion.site/hackxios-hackthon-2d98c27f6ef2806a95f4c2fef85ba37c
 
